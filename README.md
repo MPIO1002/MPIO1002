@@ -21,10 +21,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40"/>
+  <img src="https://images.seeklogo.com/logo-png/43/1/tailwind-css-logo-png_seeklogo-434090.png" alt="TailwindCSS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/VPS_logo.svg/2560px-VPS_logo.svg.png" alt="VPS" width="40" height="40"/>
+  <img src="https://static.vecteezy.com/system/resources/previews/020/029/268/original/vps-letter-logo-design-on-white-background-vps-creative-circle-letter-logo-concept-vps-letter-design-vector.jpg" alt="VPS" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/43289258?s=200&v=4" alt="Render" width="40" height="40"/>
 </p>
 
