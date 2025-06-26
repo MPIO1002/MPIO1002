@@ -54,7 +54,8 @@ Want to know more? Explore my pinned repositories 👇
 
 ### 🐍 Contribution Animation
 
-![snake gif](https://raw.githubusercontent.com/MPIO1002/MPIO1002/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/MPIO1002/MPIO1002/output/github-contribution-grid-snake.svg)
+
 
 <!-- Automatically generated with https://github.com/Platane/snk -->
 
