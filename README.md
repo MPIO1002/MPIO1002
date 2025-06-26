@@ -19,27 +19,6 @@
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="Nodejscenter">Hi there 👋, I'm a Frontend Developer</h1>
-
-<p align="center">
-  🚀 Crafting sleek, performant web apps with modern tech — one pixel at a time.
-</p>
-
----
-
-### 🧑‍💻 About Me
-
-- 🎓 IELTS 7.0  
-- 💼 6-month internship at **GGO Company**  
-- 🔨 Built real-world projects from **eCommerce** to **advertising platforms** to **game companion websites**  
-- 💡 Always learning, always building
-
----
-
-### 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://colorlib.com/wp/wp-content/uploads/sites/2/node.js-logo.png" alt="Nodejs" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
