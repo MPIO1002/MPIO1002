@@ -1,4 +1,7 @@
 <h1 align="center">Hi there 👋, I'm a Frontend Developer</h1>
+<p align="center">
+  <img src="https://giffiles.alphacoders.com/223/223156.gif" alt="Hi" />
+</p>
 
 <p align="center">
   🚀 Crafting sleek, performant web apps with modern tech — one pixel at a time.
