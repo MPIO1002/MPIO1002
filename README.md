@@ -1,4 +1,60 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm a Frontend Developer</h1>
+
+<p align="center">
+  Crafting sleek, performant web apps with modern tech — one pixel at a time.
+</p>
+
+---
+
+### 🧑‍💻 About Me
+
+- 🎓 IELTS 7.0  
+- 💼 6-month internship at **GGO Company**  
+- 🔨 Built real-world projects from **eCommerce** to **advertising platforms** to **game companion websites**  
+- 💡 Always learning, always building
+
+---
+
+### 🧰 Tech Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/VPS_logo.svg/2560px-VPS_logo.svg.png" alt="VPS" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/43289258?s=200&v=4" alt="Render" width="40" height="40"/>
+</p>
+
+---
+
+### 🚀 Projects Highlights
+
+- 🛒 **eCommerce Web App**  
+  Integrated **QR Code checkout** and **VNPay** for seamless transactions. Focused on UX and mobile-first design.
+
+- 📢 **Advertising Dashboard**  
+  Built with analytics in mind — connected to **Google Analytics** for performance tracking and user insights.
+
+- 🎮 **Game Companion Website**  
+  Designed to showcase a full **game compendium**, including characters, abilities, and mechanics. Built with a focus on structure and content clarity.
+
+Want to know more about my projects? Check out my pinned repositories below 👇
+---
+
+### 📫 Let's Connect
+
+- 📧 [Email me](mailto:minhphuc309@gmail.com)
+- 🌐 Portfolio: https://myportfolio-k5po.onrender.com
+
+---
+
+<p align="center">
+  Thanks for visiting! ⭐ Feel free to explore my pinned repos below.
+</p>
+
 
 <!--
 **MPIO1002/MPIO1002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
