@@ -51,9 +51,7 @@ Want to know more? Explore my pinned repositories 👇
 
 ### 📫 Let's Connect
 
-- 📧 [minhphuc309@gmail.com](mailto:minhphuc309@gmail.com)  
-- 🌐 [Portfolio](https://myportfolio-k5po.onrender.com)
-
+- 📧 [minhphuc309@gmail.com](mailto:minhphuc309@gmail.com)
 ---
 
 ### 🐍 Contribution Animation
