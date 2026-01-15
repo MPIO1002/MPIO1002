@@ -25,7 +25,7 @@
   <img src="https://colorlib.com/wp/wp-content/uploads/sites/2/node.js-logo.png" alt="Nodejs" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png?20230715030042](https://logowik.com/content/uploads/images/tailwind-css3232.logowik.com.webp)" alt="TailwindCSS" width="40" height="40"/>
+  <img src="https://logowik.com/content/uploads/images/tailwind-css3232.logowik.com.webp" alt="TailwindCSS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://static.vecteezy.com/system/resources/previews/020/029/268/original/vps-letter-logo-design-on-white-background-vps-creative-circle-letter-logo-concept-vps-letter-design-vector.jpg" alt="VPS" width="40" height="40"/>
