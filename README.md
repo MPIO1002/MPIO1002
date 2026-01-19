@@ -51,7 +51,8 @@ Want to know more? Explore my pinned repositories 👇
 
 ### 📫 Let's Connect
 
-- 📧 [minhphuc309@gmail.com](mailto:minhphuc309@gmail.com)
+- 📧 [huynhminhphuc.fe@gmail.com](mailto:huynhminhphuc.fe@gmail.com)
+- 🌐 Portfolio: [https://portfolio-eosin-phi-22.vercel.app/](https://portfolio-eosin-phi-22.vercel.app/)
 ---
 
 ### 🐍 Contribution Animation
