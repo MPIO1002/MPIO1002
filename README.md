@@ -52,7 +52,7 @@ Want to know more? Explore my pinned repositories 👇
 ### 📫 Let's Connect
 
 - 📧 [huynhminhphuc.fe@gmail.com](mailto:huynhminhphuc.fe@gmail.com)
-- 🌐 Portfolio: [https://portfolio-eosin-phi-22.vercel.app/](https://portfolio-eosin-phi-22.vercel.app/)
+- 🌐 Portfolio: [https://hmphuc-portfolio.vercel.app/](https://hmphuc-portfolio.vercel.app/)
 ---
 
 ### 🐍 Contribution Animation
