@@ -11,7 +11,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 IELTS 7.0  
+- 🎓 IELTS 7.5  
 - 💼 6-month internship at **GGO Company**  
 - 🔨 Built real-world projects from **eCommerce** to **advertising platforms** to **game companion websites**  
 - 💡 Always learning, always building
